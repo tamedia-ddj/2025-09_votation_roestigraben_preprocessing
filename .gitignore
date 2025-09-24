@@ -1,0 +1,144 @@
+# --- Données ---
+!/input/**
+
+output/*
+!output/.gitkeep
+deprecated/**      # cacher le dossier deprecated
+
+
+# --- Ressources / images : tout ignorer
+00_ressources/*
+00_images_and_header/*
+
+# --- RStudio export libs très lourds (widgets html)
+.Rproj.user/shared/notebooks/**/lib/
+
+# --- Quarto ---
+.quarto/
+_site/
+_freeze/
+
+# --- Jupyter ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+*.mo
+*.pot
+*.log
+instance/
+.webassets-cache
+.scrapy
+docs/_build/
+.pybuilder/
+target/
+/site
+.poetry.toml
+.ruff_cache/
+pyrightconfig.json
+.pdm.toml
+__pypackages__/
+celerybeat-schedule
+celerybeat.pid
+*.sage.py
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.spyderproject
+.spyproject
+.ropeproject
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+# .idea/
+
+# --- R ---
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+.Rproj.user/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+.Renviron
+docs/
+po/*~
+rsconnect/
+**/*_files/
+
+# --- R renv ---
+renv/library/
+renv/staging/
