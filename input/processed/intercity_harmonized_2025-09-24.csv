@@ -1,0 +1,232 @@
+order_ic,ligne,GMDNR,Name_fr,iso2,fr,de
+1,ic1,6623,Le Grand-Saconnex,GE,Le Grand-Saconnex,Le Grand-Saconnex
+2,ic1,6630,Meyrin,GE,Meyrin,Meyrin
+3,ic1,6643,Vernier,GE,Vernier,Vernier
+4,ic1,6621,Genève,GE,Genève,Genf
+5,ic1,6634,Pregny-Chambésy,GE,Pregny-Chambésy,Pregny-Chambésy
+6,ic1,6606,Bellevue,GE,Bellevue,Bellevue
+7,ic1,6622,Genthod,GE,Genthod,Genthod
+8,ic1,6644,Versoix,GE,Versoix,Versoix
+9,ic1,5723,Mies,VD,Mies,Mies
+10,ic1,5729,Tannay,VD,Tannay,Tannay
+11,ic1,5712,Coppet,VD,Coppet,Coppet
+12,ic1,5717,Founex,VD,Founex,Founex
+13,ic1,6610,Céligny,GE,Céligny,Céligny
+14,ic1,5713,Crans (VD),VD,Crans,Crans
+15,ic1,5724,Nyon,VD,Nyon,Nyon
+16,ic1,5725,Prangins,VD,Prangins,Prangins
+17,ic1,5721,Gland,VD,Gland,Gland
+18,ic1,5855,Dully,VD,Dully,Dully
+19,ic1,5858,Luins,VD,Luins,Luins
+20,ic1,5853,Bursins,VD,Bursins,Bursins
+21,ic1,5852,Bursinel,VD,Bursinel,Bursinel
+22,ic1,5857,Gilly,VD,Gilly,Gilly
+23,ic1,5861,Rolle,VD,Rolle,Rolle
+24,ic1,5859,Mont-sur-Rolle,VD,Mont-sur-Rolle,Mont-sur-Rolle
+25,ic1,5860,Perroy,VD,Perroy,Perroy
+26,ic1,5427,Féchy,VD,Féchy,Féchy
+27,ic1,5851,Allaman,VD,Allaman,Allaman
+28,ic1,5636,Etoy,VD,Etoy,Etoy
+29,ic1,5646,Saint-Prex,VD,Saint-Prex,Saint-Prex
+30,ic1,5623,Buchillon,VD,Buchillon,Buchillon
+31,ic1,5639,Lully (VD),VD,Lully,Lully
+32,ic1,5649,Tolochenaz,VD,Tolochenaz,Tolochenaz
+33,ic1,5642,Morges,VD,Morges,Morges
+34,ic1,5638,Lonay,VD,Lonay,Lonay
+35,ic1,5632,Denges,VD,Denges,Denges
+36,ic1,5633,Echandens,VD,Echandens,Echandens
+37,ic1,5635,Ecublens (VD),VD,Ecublens,Ecublens
+38,ic1,5624,Bussigny,VD,Bussigny,Bussigny
+39,ic1,5583,Crissier,VD,Crissier,Crissier
+40,ic1,5591,Renens (VD),VD,Renens,Renens
+41,ic1,5589,Prilly,VD,Prilly,Prilly
+42,ic1,5586,Lausanne,VD,Lausanne,Lausanne
+43,ic1,5590,Pully,VD,Pully,Pully
+44,ic1,5581,Belmont-sur-Lausanne,VD,Belmont-sur-Lausanne,Belmont-sur-Lausanne
+45,ic1,5606,Lutry,VD,Lutry,Lutry
+46,ic1,5613,Bourg-en-Lavaux,VD,Bourg-en-Lavaux,Bourg-en-Lavaux
+47,ic1,5607,Puidoux,VD,Puidoux,Puidoux
+48,ic1,2328,Granges (Veveyse),FR,Granges (Veveyse),Granges (Veveyse)
+49,ic1,2323,Bossonnens,FR,Bossonnens,Bossonnens
+50,ic1,5805,Oron,VD,Oron,Oron
+51,ic1,2097,Rue,FR,Rue,Rue
+53,ic1,2102,Ursy,FR,Ursy,Ursy
+54,ic1,2099,Siviriez,FR,Siviriez,Siviriez
+55,ic1,2096,Romont (FR),FR,Romont,Romont
+56,ic1,2117,Villaz,FR,Villaz,Villaz
+57,ic1,2177,Chénens,FR,Chénens,Chénens
+58,ic1,2173,Autigny,FR,Autigny,Autigny
+59,ic1,2186,Cottens (FR),FR,Cottens,Cottens
+60,ic1,2211,Neyruz (FR),FR,Neyruz,Neyruz
+61,ic1,2174,Avry,FR,Avry,Avry
+62,ic1,2208,Matran,FR,Matran,Matran
+63,ic1,2183,Corminboeuf,FR,Corminboeuf,Corminboeuf
+64,ic1,2228,Villars-sur-Glâne,FR,Villars-sur-Glâne,Villars-sur-Glâne
+65,ic1,2196,Fribourg,FR,Fribourg,Freiburg
+66,ic1,2198,Granges-Paccot,FR,Granges-Paccot,Granges-Paccot
+67,ic1,2293,Düdingen,FR,Guin,Düdingen
+68,ic1,2305,Schmitten (FR),FR,Schmitten,Schmitten
+69,ic1,2295,Bösingen,FR,Bösingen,Bösingen
+70,ic1,2309,Wünnewil-Flamatt,FR,Wünnewil-Flamatt,Wünnewil-Flamatt
+71,ic1,670,Neuenegg,BE,Neuenegg,Neuenegg
+72,ic1,355,Köniz,BE,Köniz,Köniz
+73,ic1,351,Bern,BE,Berne,Bern
+74,ic1,362,Ittigen,BE,Ittigen,Ittigen
+75,ic1,361,Zollikofen,BE,Zollikofen,Zollikofen
+76,ic1,352,Bolligen,BE,Bolligen,Bolligen
+77,ic1,544,Moosseedorf,BE,Moosseedorf,Moosseedorf
+78,ic1,551,Urtenen-Schönbühl,BE,Urtenen-Schönbühl,Urtenen-Schönbühl
+79,ic1,543,Mattstetten,BE,Mattstetten,Mattstetten
+80,ic1,403,Bäriswil,BE,Bäriswil,Bäriswil
+81,ic1,409,Hindelbank,BE,Hindelbank,Hindelbank
+82,ic1,411,Kernenried,BE,Kernenried,Kernenried
+83,ic1,538,Fraubrunnen,BE,Fraubrunnen,Fraubrunnen
+84,ic1,420,Rüdtligen-Alchenflüh,BE,Rüdtligen-Alchenflüh,Rüdtligen-Alchenflüh
+85,ic1,412,Kirchberg (BE),BE,Kirchberg,Kirchberg
+86,ic1,405,Ersigen,BE,Ersigen,Ersigen
+87,ic1,552,Utzenstorf,BE,Utzenstorf,Utzenstorf
+88,ic1,413,Koppigen,BE,Koppigen,Koppigen
+89,ic1,2530,Recherswil,SO,Recherswil,Recherswil
+90,ic1,2535,Drei Höfe,SO,Drei Höfe,Drei Höfe
+91,ic1,2520,Halten,SO,Halten,Halten
+92,ic1,2523,Horriwil,SO,Horriwil,Horriwil
+93,ic1,2518,Etziken,SO,Etziken,Etziken
+94,ic1,2511,Aeschi (SO),SO,Aeschi,Aeschi
+95,ic1,2514,Bolken,SO,Bolken,Bolken
+96,ic1,980,Inkwil,BE,Inkwil,Inkwil
+97,ic1,977,Heimenhausen,BE,Heimenhausen,Heimenhausen
+98,ic1,979,Herzogenbuchsee,BE,Herzogenbuchsee,Herzogenbuchsee
+99,ic1,342,Thunstetten,BE,Thunstetten,Thunstetten
+100,ic1,329,Langenthal,BE,Langenthal,Langenthal
+101,ic1,337,Roggwil (BE),BE,Roggwil,Roggwil
+102,ic1,345,Wynau,BE,Wynau,Wynau
+103,ic1,4279,Murgenthal,AG,Murgenthal,Murgenthal
+104,ic1,4282,Rothrist,AG,Rothrist,Rothrist
+105,ic1,4271,Aarburg,AG,Aarburg,Aarburg
+106,ic1,2581,Olten,SO,Olten,Olten
+107,ic1,2573,Dulliken,SO,Dulliken,Dulliken
+108,ic1,2572,Däniken,SO,Däniken,Däniken
+109,ic1,2576,Gretzenbach,SO,Gretzenbach,Gretzenbach
+110,ic1,2583,Schönenwerd,SO,Schönenwerd,Schönenwerd
+111,ic1,2574,Eppenberg-Wöschnau,SO,Eppenberg-Wöschnau,Eppenberg-Wöschnau
+112,ic1,4001,Aarau,AG,Aarau,Aarau
+113,ic1,4003,Buchs (AG),AG,Buchs,Buchs
+114,ic1,4206,Rupperswil,AG,Rupperswil,Rupperswil
+115,ic1,4201,Lenzburg,AG,Lenzburg,Lenzburg
+116,ic1,4205,Othmarsingen,AG,Othmarsingen,Othmarsingen
+117,ic1,4032,Mägenwil,AG,Mägenwil,Mägenwil
+118,ic1,4046,Wohlenschwil,AG,Wohlenschwil,Wohlenschwil
+119,ic1,4033,Mellingen,AG,Mellingen,Mellingen
+120,ic1,4027,Fislisbach,AG,Fislisbach,Fislisbach
+121,ic1,4035,Niederrohrdorf,AG,Niederrohrdorf,Niederrohrdorf
+122,ic1,4037,Oberrohrdorf,AG,Oberrohrdorf,Oberrohrdorf
+123,ic1,4034,Neuenhof,AG,Neuenhof,Neuenhof
+124,ic1,4030,Killwangen,AG,Killwangen,Killwangen
+125,ic1,4040,Spreitenbach,AG,Spreitenbach,Spreitenbach
+126,ic1,243,Dietikon,ZH,Dietikon,Dietikon
+127,ic1,247,Schlieren,ZH,Schlieren,Schlieren
+128,ic1,261,Zürich,ZH,Zurich,Zürich
+129,ic1,66,Opfikon,ZH,Opfikon,Opfikon
+130,ic1,62,Kloten,ZH,Kloten,Kloten
+131,ic1,52,Bassersdorf,ZH,Bassersdorf,Bassersdorf
+132,ic1,176,Lindau,ZH,Lindau,Lindau
+133,ic1,296,Illnau-Effretikon,ZH,Illnau-Effretikon,Illnau-Effretikon
+134,ic1,230,Winterthur,ZH,Winterthour,Winterthur
+135,ic1,219,Elsau,ZH,Elsau,Elsau
+136,ic1,294,Elgg,ZH,Elgg,Elgg
+137,ic1,4551,Aadorf,TG,Aadorf,Aadorf
+138,ic1,4721,Bichelsee-Balterswil,TG,Bichelsee-Balterswil,Bichelsee-Balterswil
+139,ic1,4724,Eschlikon,TG,Eschlikon,Eschlikon
+140,ic1,4761,Sirnach,TG,Sirnach,Sirnach
+141,ic1,3427,Wil (SG),SG,Wil,Wil
+142,ic1,4751,Rickenbach (TG),TG,Rickenbach,Rickenbach
+143,ic1,3405,Jonschwil,SG,Jonschwil,Jonschwil
+144,ic1,3408,Uzwil,SG,Uzwil,Uzwil
+145,ic1,3407,Oberuzwil,SG,Oberuzwil,Oberuzwil
+146,ic1,3402,Flawil,SG,Flawil,Flawil
+147,ic1,3443,Gossau (SG),SG,Gossau,Gossau
+148,ic1,3203,St. Gallen,SG,Saint-Gall,St. Gallen
+1,ic21,2701,Basel,BS,Bâle,Basel
+2,ic21,2766,Birsfelden,BL,Birsfelden,Birsfelden
+3,ic21,2770,Muttenz,BL,Muttenz,Muttenz
+4,ic21,2831,Pratteln,BL,Pratteln,Pratteln
+5,ic21,2824,Frenkendorf,BL,Frenkendorf,Frenkendorf
+6,ic21,2829,Liestal,BL,Liestal,Liestal
+7,ic21,2828,Lausen,BL,Lausen,Lausen
+8,ic21,2849,Itingen,BL,Itingen,Itingen
+9,ic21,2861,Sissach,BL,Sissach,Sissach
+10,ic21,2864,Thürnen,BL,Thürnen,Thürnen
+11,ic21,2842,Böckten,BL,Böckten,Böckten
+12,ic21,2846,Gelterkinden,BL,Gelterkinden,Gelterkinden
+13,ic21,2862,Tecknau,BL,Tecknau,Tecknau
+14,ic21,2860,Rünenberg,BL,Rünenberg,Rünenberg
+15,ic21,2851,Kilchberg (BL),BL,Kilchberg,Kilchberg
+16,ic21,2868,Zeglingen,BL,Zeglingen,Zeglingen
+17,ic21,2502,Wisen (SO),SO,Wisen,Wisen
+18,ic21,2493,Lostorf,SO,Lostorf,Lostorf
+19,ic21,2501,Winznau,SO,Winznau,Winznau
+20,ic21,2500,Trimbach,SO,Trimbach,Trimbach
+21,ic21,2581,Olten,SO,Olten,Olten
+22,ic21,4271,Aarburg,AG,Aarburg,Aarburg
+23,ic21,4280,Oftringen,AG,Oftringen,Oftringen
+24,ic21,4289,Zofingen,AG,Zofingue,Zofingen
+25,ic21,4274,Brittnau,AG,Brittnau,Brittnau
+26,ic21,1147,Wikon,LU,Wikon,Wikon
+27,ic21,1140,Reiden,LU,Reiden,Reiden
+28,ic21,1125,Dagmersellen,LU,Dagmersellen,Dagmersellen
+29,ic21,1123,Altishofen,LU,Altishofen,Altishofen
+30,ic21,1137,Nebikon,LU,Nebikon,Nebikon
+31,ic21,1127,Egolzwil,LU,Egolzwil,Egolzwil
+32,ic21,1146,Wauwil,LU,Wauwil,Wauwil
+33,ic21,1091,Mauensee,LU,Mauensee,Mauensee
+34,ic21,1089,Knutwil,LU,Knutwil,Knutwil
+35,ic21,1103,Sursee,LU,Sursee,Sursee
+36,ic21,1095,Oberkirch,LU,Oberkirch,Oberkirch
+37,ic21,1094,Nottwil,LU,Nottwil,Nottwil
+38,ic21,1093,Neuenkirch,LU,Neuenkirch,Neuenkirch
+39,ic21,1040,Rothenburg,LU,Rothenburg,Rothenburg
+40,ic21,1024,Emmen,LU,Emmen,Emmen
+41,ic21,1061,Luzern,LU,Lucerne,Luzern
+42,ic21,1054,Ebikon,LU,Ebikon,Ebikon
+43,ic21,1052,Buchrain,LU,Buchrain,Buchrain
+44,ic21,1053,Dierikon,LU,Dierikon,Dierikon
+45,ic21,1065,Root,LU,Root,Root
+46,ic21,1055,Gisikon,LU,Gisikon,Gisikon
+48,ic21,1707,Risch,ZG,Risch,Risch
+49,ic21,1331,Küssnacht (SZ),SZ,Küssnacht,Küssnacht
+50,ic21,1064,Meierskappel,LU,Meierskappel,Meierskappel
+51,ic21,1362,Arth,SZ,Arth,Arth
+52,ic21,1374,Steinerberg,SZ,Steinerberg,Steinerberg
+53,ic21,1373,Steinen,SZ,Steinen,Steinen
+54,ic21,1372,Schwyz,SZ,Schwyz,Schwyz
+55,ic21,1364,Ingenbohl,SZ,Ingenbohl,Ingenbohl
+56,ic21,1366,Morschach,SZ,Morschach,Morschach
+57,ic21,1217,Sisikon,UR,Sisikon,Sisikon
+58,ic21,1207,Flüelen,UR,Flüelen,Flüelen
+59,ic21,1201,Altdorf (UR),UR,Altdorf,Altdorf
+60,ic21,1205,Bürglen (UR),UR,Bürglen,Bürglen
+61,ic21,1213,Schattdorf,UR,Schattdorf,Schattdorf
+62,ic21,1206,Erstfeld,UR,Erstfeld,Erstfeld
+63,ic21,1216,Silenen,UR,Silenen,Silenen
+64,ic21,3986,Tujetsch,GR,Tujetsch,Tujetsch
+65,ic21,3983,Medel (Lucmagn),GR,Medel (Lucmagn),Medel (Lucmagn)
+66,ic21,5079,Quinto,TI,Quinto,Quinto
+67,ic21,5049,Blenio,TI,Blenio,Blenio
+68,ic21,5072,Faido,TI,Faido,Faido
+69,ic21,5073,Giornico,TI,Giornico,Giornico
+70,ic21,5077,Pollegio,TI,Pollegio,Pollegio
+71,ic21,5281,Biasca,TI,Biasca,Biasca
+72,ic21,5287,Riviera,TI,Riviera,Riviera
+73,ic21,5002,Bellinzona,TI,Bellinzone,Bellinzona
+74,ic21,5001,Arbedo-Castione,TI,Arbedo-Castione,Arbedo-Castione
+75,ic21,5017,Sant'Antonino,TI,Sant'Antonino,Sant'Antonino
+76,ic21,5009,Isone,TI,Isone,Isone
+77,ic21,5238,Monteceneri,TI,Monteceneri,Monteceneri
+78,ic21,5226,Capriasca,TI,Capriasca,Capriasca
+79,ic21,5212,Ponte Capriasca,TI,Ponte Capriasca,Ponte Capriasca
+80,ic21,5208,Origlio,TI,Origlio,Origlio
+81,ic21,5180,Cureglia,TI,Cureglia,Cureglia
+82,ic21,5231,Vezia,TI,Vezia,Vezia
+83,ic21,5221,Savosa,TI,Savosa,Savosa
+84,ic21,5192,Lugano,TI,Lugano,Lugano
+85,ic21,5196,Massagno,TI,Massagno,Massagno
