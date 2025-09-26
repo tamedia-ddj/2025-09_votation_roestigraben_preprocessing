@@ -32,8 +32,8 @@ import pandas as pd
 
 # -----------------------------------------------------------------------------
 # Variables de configuration
-BFS_URL = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/7686200/master"
-VOTING_DATE = "2014-02-09" # YYYY-MM-DD
+BFS_URL = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/7686135/master"
+VOTING_DATE = "2000-09-24" # YYYY-MM-DD
 INTERCITY_FILE = "input/processed/intercity_harmonized_2025-09-24.csv" # j'ai repris le fichier délà harmonisé pour 2025-09-24
 
 OUTPUT_COMMUNES_FILE = f"output/df_votes_{VOTING_DATE}_municipalities.csv"
