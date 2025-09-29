@@ -24,7 +24,9 @@ from pathlib import Path
 
 # -----------------------------------------------------------------------------
 BFS_URL = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/32006477/master"
-VOTING_DATE = "2024-06-09"  # YYYY-MM-DD
+BFS_URL = "https://dam-api.bfs.admin.ch/hub/api/dam/assets/32006477/master" # 9 juin 2024
+BFS_URL = "https://ogd-static.voteinfo-app.ch/v1/ogd/sd-t-17-02-20241124-eidgAbstimmung.json" # 24 novembre 2024
+VOTING_DATE = "2024-11-24"  # YYYY-MM-DD
 # -----------------------------------------------------------------------------
 
 TODAY = datetime.now().strftime("%d-%m-%Y")
